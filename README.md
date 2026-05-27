@@ -22,9 +22,7 @@ Link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/U
   to verify results are not sensitive to clustering assumption
 
 ## Key Findings
-The Balsakhi programme improved normalised test scores by approximately 0.12-0.13 SD 
-for treatment students (p<0.1). Heterogeneous effects analysis found no statistically 
-significant difference in programme effectiveness by gender (bal × male = -0.035, p>0.1).
+
 
 The Balsakhi programme improved normalised test scores by approximately 
 0.12 SD for treatment students. Results are robust to alternative 
